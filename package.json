@@ -1,0 +1,12 @@
+{
+  "name": "nodemon-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xuyede/nodemon-demo.git",
+  "author": "xuyede <yede.xu@jyblife.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "koa": "^2.13.1"
+  }
+}
